@@ -10,7 +10,9 @@ Interactive Hover Effects: Rows highlight on hover for improved user experience.
 Clear Visual Hierarchy: Distinct header and footer sections with bold styling and borders.
 Responsive Layout: 90% width with centered alignment for various screen sizes.
 Semantic HTML: Proper use of <thead>, <tbody>, and <tfoot> for table structure.
+
 🛠️ Technologies Used
+
 HTML5: Semantic table elements (<table>, <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>).
 CSS3: nth-child() selector, hover states, border styling, and layout centering.
 
