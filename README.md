@@ -13,7 +13,7 @@ Semantic HTML: Proper use of <thead>, <tbody>, and <tfoot> for table structure.
 
 🛠️ Technologies Used
 
-HTML5: Semantic table elements (<table>, <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>).
+HTML5: Semantic table elements {<table>, <thead>, <tbody>, <tfoot>, <tr>, <th>, <td>}.
 CSS3: nth-child() selector, hover states, border styling, and layout centering.
 
 📂 Project Structure
