@@ -1,0 +1,49 @@
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Header section */
+thead th {
+  background-color: #f4f4f4;
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 2px solid #333;
+  font-weight: bold;
+}
+
+/* Data rows */
+tbody td {
+  padding: 10px 15px;
+  border-bottom: 1px solid #ddd;
+  vertical-align: middle;
+}
+
+/* Zebra striping for readability */
+tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+tbody tr:hover {
+  background-color: #f0f0f0;
+}
+
+/* Footer section */
+tfoot td {
+  background-color: #f4f4f4;
+  padding: 12px 15px;
+  font-weight: bold;
+  border-top: 2px solid #333;
+  text-align: center;
+}
+
+/* Page title */
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin-bottom: 20px;
+}
